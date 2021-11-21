@@ -70,3 +70,9 @@ section .container{
 section table{
     width: 100%;
 }
+@media (max-width: 390px)
+  {
+      .container{
+          width: 100%;
+      }
+}
